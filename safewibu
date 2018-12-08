@@ -2,7 +2,7 @@ Taruh di tata letak -> gadget -> html/javascrip blog/website kamu ^^ salam Wibub
 
 Kode:
 
-<script type="text/javascript" src="https://rawgit.com/reidhoseki/Wibubatch/master/wibungesafe.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/reidhoseki/Wibubatch/wibungesafe.js"></script>
 <script type="text/javascript">
 protected_links = "google.com,fb.me,facebook.com"; // Unprotect Domain
 auto_safelink();
